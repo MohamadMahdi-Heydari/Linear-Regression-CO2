@@ -4,7 +4,7 @@ Multiple Linear Regression in Python (scikit-learn) to predict CO₂ emissions f
 
 #  CO₂ Emission Prediction using Multiple Linear Regression
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Linear%20Regression-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -31,13 +31,13 @@ The project demonstrates the complete workflow of a machine learning regression 
 
 ## Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap]([images/heatmap.png](https://github.com/MohamadMahdi-Heydari/Linear-Regression-CO2/blob/main/Figure_1.png))
 
 ---
 
 ## Model Prediction
 
-![Prediction](images/prediction.png)
+![Prediction]([images/prediction.png](https://github.com/MohamadMahdi-Heydari/Linear-Regression-CO2/blob/main/Heatmap.png))
 
 ---
 
