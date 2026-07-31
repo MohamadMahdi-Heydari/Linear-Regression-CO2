@@ -31,13 +31,13 @@ The project demonstrates the complete workflow of a machine learning regression 
 
 ## Correlation Heatmap
 
-![Heatmap]([images/heatmap.png](https://github.com/MohamadMahdi-Heydari/Linear-Regression-CO2/blob/main/Figure_1.png))
+![Heatmap](https://github.com/MohamadMahdi-Heydari/Linear-Regression-CO2/blob/main/Figure_1.png)
 
 ---
 
 ## Model Prediction
 
-![Prediction]([images/prediction.png](https://github.com/MohamadMahdi-Heydari/Linear-Regression-CO2/blob/main/Heatmap.png))
+![Prediction](https://github.com/MohamadMahdi-Heydari/Linear-Regression-CO2/blob/main/Heatmap.png)
 
 ---
 
