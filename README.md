@@ -54,7 +54,7 @@ The dataset contains information about different vehicles.
 
 ---
 
-# ⚙️ Libraries Used
+#  Libraries Used
 
 - NumPy
 - Pandas
@@ -116,7 +116,7 @@ y = df['out1']
 The data is divided into training and testing sets.
 
 ```python
-train_test_split(...)
+x_train, x_test, y_train, y_test = train_test_split(x, y , test_size=0.2,  random_state=42)
 ```
 
 80% is used for training.
