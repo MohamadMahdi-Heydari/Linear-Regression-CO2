@@ -27,7 +27,7 @@ The project demonstrates the complete workflow of a machine learning regression 
 
 ---
 
-# 📷 Project Preview
+#  Project Preview
 
 ## Correlation Heatmap
 
@@ -65,7 +65,7 @@ The dataset contains information about different vehicles.
 Install them using:
 
 ```bash
-pip install -r requirements.txt
+pip install NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 ```
 
 ---
